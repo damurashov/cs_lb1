@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\TemporaryFiles\ИБ1\primary_decoder\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TemporaryFiles\ИБ1\primary_decoder\print_ops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TemporaryFiles\ИБ1\primary_decoder\arg_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\TemporaryFiles\ИБ1\primary_decoder\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0F1B9B9F-6DB6-36BF-ABFC-76303F38C9CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

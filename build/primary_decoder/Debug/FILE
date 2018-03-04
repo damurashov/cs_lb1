@@ -1,0 +1,28 @@
+Текущая кодовая страница: 1251
+>>BEGIN: 
+	decrypt <ciphertext_path> <vocabulary_path>
+GET HELP: 
+	help
+SWAP SYMBOLS OF KEY: 
+	swap <symbol_1> <symbol_2>
+SET SYMBOL OF KEY: 
+	set <key> <value>
+SET SYMBOLS OF KEY WITH A DECODED EXAMPLE: 
+	set_example <encoded_word> <decoded_word>
+SET SYMBOLS OF KEY ACCORDING TO THE STATISTICS OF RUSSIAN LANGUAGE.: 
+	set_by_rus_stat
+SET SYMBOLS OF KEY USING THE VOCABULARY (WARNING: EXPENSIVE): 
+	set_by_vocabulary
+PRINT_DECODED_TEXT: 
+	print_decoded
+PRINT KEY: 
+	print_key
+PRINT THE WORDS MOST SIMILAR TO THE GIVEN ONE: 
+	print_similar <word> <max_diff>
+
+>> ур
+ ьр
+ ёр
+▀°р
+
+>>
